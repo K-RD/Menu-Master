@@ -1,0 +1,12 @@
+{
+  "name": "menu-master",
+  "version": "1.0.0",
+  "description": "Menu-Master is a food ordering and tracking system, Which helps customer to order food with the help of scanning the qr code placed on their tables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Robind Kumar",
+  "license": "ISC"
+}
