@@ -12,4 +12,4 @@ MenuMaster transforms your restaurant experience. By scanning the QR code at you
 
 ![menu-master schema](https://github.com/K-RD/Menu-Master/assets/108448353/5b0abb6f-ae5f-4351-9164-f5a24dfb4eb5)
 
-We have created the above schema for storing data usin in this project.
+We have created the above schema for storing data using in this project.
